@@ -12,7 +12,11 @@ My-Sql database is used.
 
 
 Import 'contactform.sql' in the database.
+
+
 Database name: contactform
+
+
 Tables are :
 1- admindetails: for admin login. userid and password provided
 2- submissions: for all submissions which are made in feedback form.
