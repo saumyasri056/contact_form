@@ -26,12 +26,19 @@ Tables are :
 
 
 The files: 
+
 -index.html
+
 -login_page.html
+
 -logout_page.php
+
 -admin_page.php: session is set in this page.
+
 -allqueries.php : for viewing all feedbacks
+
 -config_page.php: for establishing database connectivity.
+
 -contact_form.php: for user feedback
 
 
