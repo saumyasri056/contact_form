@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color:#FF6600;
+    margin-left: 40px;
+    font-size:350%;
+   } 
+h2{
+	color:grey;
+	font-size:200%;
+}
+p{
+    color:grey ;
+	font-size:150%;
+ }
+button {
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 24px;
+    border-radius: 50%;
+    }
+button:hover
+ {
+    background-color: black;
+    color: white;
+ }
+form
+{
+    color:grey;
+    font-size:150%;}
+    .error {color: #FF0000;
+}
+
+
+
